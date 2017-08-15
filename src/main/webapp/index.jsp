@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is a test webapp new feature</h2>
+<h2>Application revamped</h2>
 </body>
 </html>
